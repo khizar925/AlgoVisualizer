@@ -1,5 +1,5 @@
 let array = [];
-let size = 24;
+let size = 20;
 
 function resetArray() {
     return new Promise(resolve => {
