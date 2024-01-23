@@ -1,4 +1,5 @@
 let array = [];
+//Size of Random array for sorting
 let size = 20;
 
 function resetArray() {
